@@ -64,7 +64,7 @@ uvicorn app.main:app --reload
 ## API Endpoints
 ## it is API Documentation created on swagger UI
 ### Create a Resource
-``` json
+```
 {
     "openapi": "3.0.2",
     "info": {
