@@ -337,7 +337,7 @@ uvicorn app.main:app --reload
 ```
 
 
-## Acknowledgements
+## Acknowledgement
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
